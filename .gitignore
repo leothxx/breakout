@@ -1,0 +1,5 @@
+/.idea
+
+/flutter/linux/flutter/generated_plugin_registrant.*
+/flutter/linux/flutter/generated_plugins_cmake
+
