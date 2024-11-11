@@ -4,5 +4,6 @@
 Next Generation Fashion Application.
 
 ## version
+dart : 3.5.4
 
 
