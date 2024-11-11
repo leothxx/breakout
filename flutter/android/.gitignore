@@ -11,3 +11,11 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+*.apk
+*.aar
+*.iml
+.gradle/
+/android/local.properties
+/android/app/proguard-rules.pro
+/android/key.properties
+/android/.cxx/
